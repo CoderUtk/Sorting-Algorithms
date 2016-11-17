@@ -2,7 +2,7 @@
 
 <h3>Java code for common sorting algorithms:<h3>
 1. <u><b>Quick Sort</u></b>
-    &emsp;<p>Explanation: https://www.tutorialspoint.com/data_structures_algorithms/quick_sort_algorithm.htm<br>
+    <p>&emsp;Explanation: https://www.tutorialspoint.com/data_structures_algorithms/quick_sort_algorithm.htm<br>
     &emsp;Time Complexity : O(n log(n))<br>
     &emsp;Space Complexity : O (log(n))</p>
     
