@@ -1,8 +1,15 @@
+/*
+For explanation of QuickSort: https://www.tutorialspoint.com/data_structures_algorithms/quick_sort_algorithm.htm
+
+Time Complexity : O(n log(n))
+Space Complexity : O (log(n))
+
+*/
+
 
 import java.util.Scanner;
 public class QuickSort {
     static int[] A;
-
     private static int partition( int p, int r){
         int pivot = A[r];
         int i=p-1;
