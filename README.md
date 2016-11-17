@@ -1,7 +1,11 @@
 # Sorting-Algorithms
 
-Java code for common sorting algorithms:
-1. Quick Sort
+<h3>Java code for common sorting algorithms:<h3>
+1. <u><b>Quick Sort<u><b> 
+    Explanation: https://www.tutorialspoint.com/data_structures_algorithms/quick_sort_algorithm.htm
+    Time Complexity : O(n log(n))
+    Space Complexity : O (log(n))
+    
 2. Merge Sort
 3. Bubble Sort
 4. Selection sort
