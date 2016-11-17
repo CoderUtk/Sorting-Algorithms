@@ -10,4 +10,4 @@
 
 For explanation refer <b>Tutorials Point</b> or <b>GeeksForGeeks</b>
 <br>
-<img src="Sorting-Algorithms/Sortingss.png"> Time and Space Complexity </img>
+<img src="http://tinypic.com?ref=b9f490.jpg"> Time and Space Complexity </img>
