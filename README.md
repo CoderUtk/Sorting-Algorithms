@@ -9,4 +9,5 @@
 5. Insertion Sort
 
 For explanation refer <b>Tutorials Point</b> or <b>GeeksForGeeks</b>
-<img src=""> Time and Space Complexity </img>
+<br>
+<img src="Sorting-Algorithms/Sortingss.png"> Time and Space Complexity </img>
