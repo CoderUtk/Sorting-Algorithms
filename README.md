@@ -10,4 +10,4 @@
 
 For explanation refer <b>Tutorials Point</b> or <b>GeeksForGeeks</b>
 <br>
-<img ><a href="http://tinypic.com?ref=b9f490" target="_blank"><img src="http://i65.tinypic.com/b9f490.jpg" border="0" alt="Image and video hosting by TinyPic"></a> Time and Space Complexity </img>
+<img ><a href="http://tinypic.com?ref=b9f490" target="_blank"><img src="http://i65.tinypic.com/b9f490.jpg" border="0" alt="Image and video hosting by TinyPic"></a></img>
