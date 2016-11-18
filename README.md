@@ -7,6 +7,7 @@
 3. Bubble Sort
 4. Selection sort
 5. Insertion Sort
+More algorithms will be added on regular basis..
 
 For explanation refer <b>Tutorials Point</b> or <b>GeeksForGeeks</b>
 <br>
