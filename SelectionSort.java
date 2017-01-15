@@ -1,10 +1,10 @@
 import java.util.Scanner;
 public class SelectionSort {
-    public static void main(String[] args) {
+  public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter length of array:");
         int n=sc.nextInt(),min,index=0;
-        int a[]=new int[1000];
+        int a[]=new int[n];
         System.out.println("Enter array:");
         for(int i=0;i<n;i++)
             a[i]=sc.nextInt();
