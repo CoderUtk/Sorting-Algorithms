@@ -16,8 +16,8 @@ public class GenericFunctions {
     public Date start_time;
     public Date end_time;
 
-    public double getTimeTakenInSeconds() {
-        return 0;
+    public String getTimeTakenInSeconds() {
+        return ((end_time.getTime() - start_time.getTime()) / 1000) + " " + "seconds";
     }
 
     public double[] swap(double[] arr, int a, int b) {

@@ -18,7 +18,7 @@ public class InsertionSortImpl extends GenericFunctions implements InsertionSort
     @Override
     public int[] sortUsingInsertionSort(int[] numbers) {
         start_time = new Date();
-        for (int i = 1; i < numbers.length; ++i) {
+        for (int i = 1; i < numbers.length; i++) {
             int key = numbers[i];
             int index = i - 1;
             while (index > 0 && numbers[index] > key) {
@@ -35,7 +35,7 @@ public class InsertionSortImpl extends GenericFunctions implements InsertionSort
     @Override
     public double[] sortUsingInsertionSort(double[] numbers) {
         start_time = new Date();
-        for (int i = 1; i < numbers.length; ++i) {
+        for (int i = 1; i < numbers.length; i++) {
             double key = numbers[i];
             int index = i - 1;
             while (index > 0 && numbers[index] > key) {
@@ -52,7 +52,7 @@ public class InsertionSortImpl extends GenericFunctions implements InsertionSort
     @Override
     public long[] sortUsingInsertionSort(long[] numbers) {
         start_time = new Date();
-        for (int i = 1; i < numbers.length; ++i) {
+        for (int i = 1; i < numbers.length; i++) {
             long key = numbers[i];
             int index = i - 1;
             while (index > 0 && numbers[index] > key) {
